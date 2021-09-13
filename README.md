@@ -1,2 +1,9 @@
-# Decode Above Given "Flag.txt" file
-Flag format = KHC[some-text}
+# Decode above given "flag.txt" file
+flag format = KHC[some-text}
+
+### HINT = Believe
+           In
+           Finding
+           Ideals
+           Deed 
+           
